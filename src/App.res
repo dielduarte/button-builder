@@ -1,4 +1,9 @@
+@module("./App.module.css")
+external styles: {..} = "default"
+
 @react.component
 let make = () => {
-  <div> {React.string("Hello from Rescript!")} </div>
+  <div className={styles["container"]}>
+    <div className={styles["column"]}> <Button /> <Button /> </div> <Sidebar />
+  </div>
 }
