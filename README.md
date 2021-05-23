@@ -1,3 +1,8 @@
+# About
+This is a simple button builder example using rescript and react just for fun!
+
+<img src="./image.png" alt="image showing how the button builder looks like">
+
 # Snowpack, React and ReScript integration
 
 The Snowpack, React and ReScript starter template. Based on [rescript-lang/rescript-project-template](https://github.com/rescript-lang/rescript-project-template)
