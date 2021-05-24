@@ -1,5 +1,5 @@
 # About
-This is a simple button builder example using rescript and react just for fun!
+This is a simple button builder example using rescript and react, used as an example during my talk "rescript from a JS dev point of view"
 
 <img src="./image.png" alt="image showing how the button builder looks like">
 
